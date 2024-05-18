@@ -1,0 +1,174 @@
+Professor,ClassNum,CatalogNum,Title,Days,Time,Location
+Marjan Asadinia,16584,COMP 620,Computer System Architecture,Tu,07:00 PM - 09:45 PM,JD3508
+Marjan Asadinia,16548,COMP 621,Computer System Architecture,Tu,03:00 PM - 05:45 PM,JD3508
+Marjan Asadinia,16642,COMP 680	,Advanced Topics in Software Engineering,Th,07:00 PM - 09:45 PM,ONLINE
+Kyle Dewey,16390,COMP 333,Concepts of Programming Languages,MoWe,02:00 PM - 03:15 PM,SG109
+Kyle Dewey,16487,COMP 334,Concepts of Programming Languages,MoWe,09:30 AM - 10:45 AM,SG109
+Kyle Dewey,16464,COMP 430,Language Design and Compilers,MoWe,11:00 AM - 12:15 PM,SG101
+Mahdi Ebrahimi,16558,COMP 440,Database Design,Fr,10:30 AM - 01:15 PM,ONLINE
+Rashida Hasan,16634,COMP 542,MACHINE LEARNING,Th,11:00 AM - 01:45 PM,JD3508
+Rashida Hasan,16529,COMP 542,MACHINE LEARNING,Tu,11:00 AM - 01:45 PM,JD3508
+Wen-Chin(Amy) Hsu,15990,COMP 282,Advanced Data Structures,MoWe,02:00 PM - 03:15 PM,JD3520
+Wen-Chin(Amy) Hsu,15784,COMP 282,Advanced Data Structures,MoWe,11:00 AM - 12:15 PM,ONLINE
+Wen-Chin(Amy) Hsu,15784,COMP 283,Advanced Data Structures,We,11:00 AM - 12:15 PM,JD2520
+Wen-Chin(Amy) Hsu,16585,COMP 282,Advanced Data Structures,Fr,10:00 AM - 12:45 PM,JD3520
+Wen-Chin(Amy) Hsu,16555,COMP 542,MACHINE LEARNING,MoWe,03:30 PM - 04:45 PM,JD3520
+Maryam Jalali,16470,COMP 110,Introduction to Algorithms and Programming,TuTh,02:00 PM - 03:15 PM,ONLINE
+Maryam Jalali,16475,COMP 110L,Introduction to Algorithms and Programming Lab,Fr,09:30 AM - 12:15 PM,ONLINE
+Maryam Jalali,16474,COMP 110L,Introduction to Algorithms and Programming Lab,TuTh,03:30 PM - 04:45 PM,ONLINE
+Maryam Jalali,16405,COMP 482,ALGORITHM DESIGN,TuTh,11:00 AM - 12:15 PM,JD1107
+Maryam Jalali,16404,COMP 482,ALGORITHM DESIGN,TuTh,09:30 AM - 10:45 AM,JD1105
+"Jiang, Xunfei",20417,COMP 491,SR PROJECT II,TuTh,09:30 AM - 10:20 AM,ONLINE
+"Jiang, Xunfei",20426,COMP 491L,Senior Project Lab,TuTh,10:30 AM - 11:45 AM,ONLINE
+Li Liu,20419,COMP 491,SR PROJECT II,MoWe,10:00 AM - 10:50 AM,JD2213
+Li Liu,20428,COMP 491L,Senior Project Lab,MoWe,11:00 AM - 12:15 PM,JD2213
+Robert D McIlhenny,16552,COMP 322,Introduction to Operating Systems and System Architecture,TuTh,07:00 PM - 08:15 PM,JD2216
+Robert D McIlhenny,16421,COMP 322L,Introduction to Operating Systems and System Architecture Lab,TuTh,08:30 PM - 09:45 PM,JD2216
+Katya Mkrtchyan,16388,COMP 256,Discrete Structures for Computer Science,TuTh,09:30 AM - 10:45 AM,ONLINE
+Katya Mkrtchyan,16389,COMP 256L,Discrete Structures for Computer Science Lab,TuTh,11:00 AM - 12:15 PM,ONLINE
+Katya Mkrtchyan,16008,COMP 310,"Automata, Languages, and Computation",MoWe,11:00 AM - 12:15 PM,JD3508
+Katya Mkrtchyan,15785,COMP 310,"Automata, Languages, and Computation",MoWe,09:30 AM - 10:45 AM,JD3508
+Alex Modarresi,20418,COMP 491,SR PROJECT II,MoWe,01:00 PM - 01:50 PM,JD2217
+Alex Modarresi,20415,COMP 491,SR PROJECT II,MoWe,10:00 AM - 10:50 AM,JD2221
+Alex Modarresi,20427,COMP 491L,Senior Project Lab,MoWe,02:00 PM - 03:15 PM,JD2217
+Alex Modarresi,20424,COMP 491L,Senior Project Lab,MoWe,11:00 AM - 12:15 PM,JD2221
+John Noga,16565,COMP 310,"Automata, Languages, and Computation",TuTh,11:00 AM - 12:15 PM,JD1618
+John Noga,16485,COMP 482,ALGORITHM DESIGN,Fr,03:30 PM - 06:15 PM,JD2221
+John Noga,15794,COMP 610,Data Structures and Algorithms,Fr,09:30 AM - 12:15 PM,JD2217
+Abhishek Verma,15789,COMP 380,Introduction to Software Engineering,MoWe,02:00 PM - 02:50 PM,JD1104
+Abhishek Verma,16121,COMP 380,Introduction to Software Engineering,MoWe,05:00 PM - 05:50 PM,JD1104
+Abhishek Verma,15787,COMP 380,Introduction to Software Engineering,TuTh,02:00 PM - 02:50 PM,JD2213
+Abhishek Verma,16122,COMP 380L,Introduction to Software Engineering Lab,MoWe,06:00 PM - 07:15 PM,JD1104
+Abhishek Verma,15788,COMP 380L,Introduction to Software Engineering Lab,TuTh,03:00 PM - 04:15 PM,JD2213
+Abhishek Verma,15790,COMP 380L,Introduction to Software Engineering Lab,MoWe,03:00 PM - 04:15 PM,JD1104
+Jeff Wiegley,20416,COMP 491,SR PROJECT II,TuTh,02:00 PM - 02:50 PM,JD2217
+Jeff Wiegley,20420,COMP 491,SR PROJECT II,TuTh,10:00 AM - 10:50 AM,JD2217
+Jeff Wiegley,20429,COMP 491L,Senior Project Lab,TuTh,11:00 AM - 12:15 PM,JD2217
+Jeff Wiegley,20425,COMP 491L,Senior Project Lab,TuTh,03:00 PM - 04:15 PM,JD2217
+Jeff Wiegley,15862,COMP 522,EMBEDDED APPS,Fr,10:00 AM - 12:45 PM,ONLINE
+Mohammed Abdelrahim,20849,COMP 485,Human-Computer Interaction,Fr,07:00 PM - 09:45 PM,JD2221
+Mohammed Abdelrahim,16411,COMP 486,Human-Computer Interaction,Sa,11:00 AM - 01:45 PM,JD2221
+Mohammed Abdelrahim,15792,COMP 487,Human-Computer Interaction,Sa,08:00 AM - 10:45 AM,JD2216
+Samuel Addington,16313,COMP 122,Computer Architecture and Assembly Language,Sa,10:00 AM - 12:45 PM,JD2217
+Samuel Addington,16316,COMP 122L,Computer Architecture and Assembly Language Lab,Sa,02:00 PM - 04:45 PM,JD2217
+Afshin Amini,16118,COMP 122,Computer Architecture and Assembly Language,TuTh,09:30 AM - 10:45 AM,ONLINE
+Afshin Amini,16120,COMP 122L,Computer Architecture and Assembly Language Lab,TuTh,11:00 AM - 12:15 PM,ONLINE
+Afshin Amini,20422,COMP 491,SR PROJECT II,TuTh,02:00 PM - 02:50 PM,JD2216
+Afshin Amini,20421,COMP 491,SR PROJECT II,MoWe,10:00 AM - 10:50 AM,JD2216
+Afshin Amini,20430,COMP 491L,Senior Project Lab,MoWe,11:00 AM - 12:15 PM,JD2216
+Afshin Amini,20431,COMP 491L,Senior Project Lab,TuTh,03:00 PM - 04:15 PM,JD2216
+Sevak Asadorian,15779,COMP 182,Data Structures and Program Design,Sa,10:00 AM - 12:45 PM,ONLINE
+Sevak Asadorian,15780,COMP 182L,Data Structures and Program Design Lab,Sa,02:00 PM - 04:45 PM,ONLINE
+Cecile S Bendavid,15858,COMP 100,Computers: Their Impact and Use,MoWe,09:30 AM - 10:45 AM,JD1105
+Cecile S Bendavid,15759,COMP 100,Computers: Their Impact and Use,MoWe,11:00 AM - 12:15 PM,JD1105
+Cecile S Bendavid,15758,COMP 100,Computers: Their Impact and Use,TuTh,11:00 AM - 12:15 PM,JD1105
+Vijay J Bhatt,15782,COMP 222,Computer Organization,TuTh,05:00 PM - 06:15 PM,JD1538
+Vijay J Bhatt,16387,COMP 222,Computer Organization,TuTh,02:00 PM - 03:15 PM,JD1538
+Vijay J Bhatt,16496,COMP 222,Computer Organization,TuTh,03:30 PM - 04:45 PM,JD1538
+Mike Boctor,15791,COMP 424,Computer System Security,Mo,07:00 PM - 09:45 PM,JD1104
+Somayeh Boroumandi,20871,COMP 322,Introduction to Operating Systems and System Architecture,TuTh,07:00 PM - 08:15 PM,ONLINE
+Somayeh Boroumandi,20856,COMP 322,Introduction to Operating Systems and System Architecture,MoWe,07:00 PM - 08:15 PM,ONLINE
+Somayeh Boroumandi,20857,COMP 322L,Introduction to Operating Systems and System Architecture Lab,MoWe,08:30 PM - 09:45 PM,ONLINE
+Somayeh Boroumandi,20872,COMP 322L,Introduction to Operating Systems and System Architecture Lab,TuTh,08:30 PM - 09:45 PM,ONLINE
+Chris Bowles,16193,COMP 110,Introduction to Algorithms and Programming,TuTh,11:00 AM - 12:15 PM,JD1538
+Chris Bowles,16194,COMP 110L,Introduction to Algorithms and Programming Lab,TuTh,12:30 PM - 01:45 PM,JD1538
+Chris Bowles,16547,COMP 111B,ALGRTH PROG B,TuTh,08:30 AM - 09:20 AM,JD1618
+Chris Bowles,16498,COMP 111BL,ALGRTH PROG B LAB,TuTh,09:30 AM - 10:45 AM,JD1618
+Chris Bowles,16553,COMP 322,Introduction to Operating Systems and System Architecture,MoWe,09:30 AM - 10:45 AM,JD1600A
+Chris Bowles,16554,COMP 322L,Introduction to Operating Systems and System Architecture Lab,MoWe,11:00 AM - 12:15 PM,JD1600A
+Kevin Chaja,16639,COMP 467,Multimedia Systems Design,We,07:00 PM - 09:45 PM,ONLINE
+Kevin Chaja,16653,COMP 467,Multimedia Systems Design,Mo,07:00 PM - 09:45 PM,ONLINE
+Adam Clark,16613,COMP 310,"Automata, Languages, and Computation",TuTh,05:00 PM - 06:15 PM,ONLINE
+Adam Clark,16612,COMP 310,"Automata, Languages, and Computation",MoWe,05:00 PM - 06:15 PM,ONLINE
+Adam Clark,20873,COMP 310,"Automata, Languages, and Computation",TuTh,06:30 PM - 07:45 PM,ONLINE
+Adam Clark,20861,COMP 310,"Automata, Languages, and Computation",MoWe,06:30 PM - 07:45 PM,ONLINE
+Edmund Dantes,16311,COMP 110,Introduction to Algorithms and Programming,MoWe,11:00 AM - 12:15 PM,JD1104
+Edmund Dantes,16312,COMP 110L,Introduction to Algorithms and Programming Lab,MoWe,12:30 PM - 01:45 PM,JD1104
+Edmund Dantes,20423,COMP 491,SR PROJECT II,MoWe,07:00 PM - 07:50 PM,ONLINE
+Edmund Dantes,20432,COMP 491L,Senior Project Lab,MoWe,08:00 PM - 09:15 PM,ONLINE
+Gholamhossein Dastghaiby fard,15777,COMP 182,Data Structures and Program Design,MoWe,09:30 AM - 10:45 AM,JD1107
+Gholamhossein Dastghaiby fard,15778,COMP 182L,Data Structures and Program Design Lab,MoWe,11:00 AM - 12:15 PM,JD1107
+Gholamhossein Dastghaiby fard,16564,COMP 282,Advanced Data Structures,Sa,09:00 AM - 11:45 AM,JD3520
+Gholamhossein Dastghaiby fard,16142,COMP 469,Introduction to Artificial Intelligence,Fr,02:00 PM - 04:45 PM,ONLINE
+Gholamhossein Dastghaiby fard,16298,COMP 469,Introduction to Artificial Intelligence,Fr,06:00 PM - 08:45 PM,ONLINE
+Jeffrey Drobman,16117,COMP 122,Computer Architecture and Assembly Language,TuTh,02:00 PM - 03:15 PM,JD1618
+Jeffrey Drobman,15773,COMP 122,Computer Architecture and Assembly Language,MoWe,02:00 PM - 03:15 PM,JD2216
+Jeffrey Drobman,15774,COMP 122L,Computer Architecture and Assembly Language Lab,MoWe,03:30 PM - 04:45 PM,JD2216
+Jeffrey Drobman,16119,COMP 122L,Computer Architecture and Assembly Language Lab,TuTh,03:30 PM - 04:45 PM,JD1618
+Jeffrey Drobman,16607,COMP 222,Computer Organization,MoWe,06:00 PM - 07:15 PM,ONLINE
+Husam El-Issa,16195,COMP 122,Computer Architecture and Assembly Language,MoWe,05:00 PM - 06:15 PM,ONLINE
+Husam El-Issa,16196,COMP 122L,Computer Architecture and Assembly Language Lab,MoWe,06:30 PM - 07:45 PM,ONLINE
+Nelson Elder,20411,COMP 324,NETWRKS AND SECURITY,TuTh,05:00 PM - 06:15 PM,JD2217
+Nelson Elder,20410,COMP 324,NETWRKS AND SECURITY,MoWe,05:00 PM - 06:15 PM,JD2217
+Nelson Elder,16630,COMP 529,Advanced Network Topics,MoWe,07:00 PM - 07:50 PM,JD2217
+Nelson Elder,16398,COMP 529,Advanced Network Topics,TuTh,07:00 PM - 07:50 PM,JD2217
+Nelson Elder,16549,COMP 529L,ADV NETWORK LAB,TuTh,08:00 PM - 09:15 PM,JD2217
+Nelson Elder,16631,COMP 529L,ADV NETWORK LAB,MoWe,08:00 PM - 09:15 PM,JD2217
+David Alan Freedman,16197,COMP 182,Data Structures and Program Design,Fr,02:00 PM - 04:45 PM,JD1107
+David Alan Freedman,16198,COMP 182L,Data Structures and Program Design Lab,Fr,05:00 PM - 07:45 PM,JD1107
+David Alan Freedman,16347,COMP 322,Introduction to Operating Systems and System Architecture,TuTh,02:00 PM - 03:15 PM,ONLINE
+David Alan Freedman,16348,COMP 322L,Introduction to Operating Systems and System Architecture Lab,TuTh,05:30 PM - 06:45 PM,ONLINE
+David Alan Freedman,16326,COMP 322L,Introduction to Operating Systems and System Architecture Lab,TuTh,03:30 PM - 04:45 PM,ONLINE
+David Alan Freedman,16297,COMP 440,Database Design,TuTh,08:30 PM - 09:45 PM,ONLINE
+Majid Haghoo,15948,COMP 110,Introduction to Algorithms and Programming,TuTh,07:00 PM - 08:15 PM,JD1105
+Majid Haghoo,15769,COMP 110,Introduction to Algorithms and Programming,MoWe,07:00 PM - 08:15 PM,ONLINE
+Majid Haghoo,15770,COMP 110L,Introduction to Algorithms and Programming Lab,MoWe,08:30 PM - 09:45 PM,ONLINE
+Majid Haghoo,15949,COMP 110L,Introduction to Algorithms and Programming Lab,TuTh,08:30 PM - 09:45 PM,JD1105
+Mani Heravi,16251,COMP 282,Advanced Data Structures,We,07:00 PM - 09:45 PM,JD3520
+Sevada Isayan,20412,COMP 324,NETWRKS AND SECURITY,Sa,11:00 AM - 01:45 PM,JD1602
+Ramin Jacobson,16319,COMP 182,Data Structures and Program Design,MoWe,07:00 PM - 08:15 PM,JD1107
+Ramin Jacobson,16322,COMP 182L,Data Structures and Program Design Lab,MoWe,08:30 PM - 09:45 PM,JD1107
+Vahe Karamian,16335,COMP 485,Human-Computer Interaction,We,07:00 PM - 09:45 PM,JD2216
+Vahe Karamian,16581,COMP 565,Advanced Computer Graphics,Mo,07:00 PM - 09:45 PM,JD3508
+Vahe Karamian,15930,COMP 565,Advanced Computer Graphics,Mo,04:00 PM - 06:45 PM,JD3508
+Vahe Karamian,16143,COMP 585,Graphical User Interfaces,Tu,07:00 PM - 09:45 PM,ONLINE
+Vahe Karamian,16173,COMP 589,SOFTWARE METRICS,Th,07:00 PM - 09:45 PM,JD3510
+Nerces Kevork Kazandjian,16606,COMP 222,Computer Organization,MoWe,05:00 PM - 06:15 PM,JD2216
+Vanessa Klotzman,16617,COMP 380,Introduction to Software Engineering,TuTh,07:30 PM - 08:20 PM,ONLINE
+Vanessa Klotzman,16619,COMP 380L,Introduction to Software Engineering Lab,TuTh,08:30 PM - 09:45 PM,ONLINE
+Vanessa Klotzman,16233,COMP 541,Data Mining,Th,03:00 PM - 05:45 PM,ONLINE
+Vanessa Klotzman,16638,COMP 680,Advanced Topics in Software Engineering,We,07:00 PM - 09:45 PM,ONLINE
+Launis Look,16587,COMP 333,Concepts of Programming Languages,MoWe,03:30 PM - 04:45 PM,JD1105
+Launis Look,15783,COMP 334,Concepts of Programming Languages,MoWe,02:00 PM - 03:15 PM,JD1105
+Mansoureh Lord,16621,COMP 482,ALGORITHM DESIGN,MoWe,12:30 PM - 01:45 PM,JD3520
+Mansoureh Lord,16620,COMP 482,ALGORITHM DESIGN,MoWe,11:00 AM - 12:15 PM,JD1618
+Mansoureh Lord,16570,COMP 541,Data Mining,Fr,11:00 AM - 01:45 PM,JD2216
+Mansoureh Lord,16633,COMP 541,Data Mining,MoWe,09:30 AM - 10:45 AM,JD3520
+Oscar Marin,20855,COMP 282,Advanced Data Structures,Fr,03:00 PM - 05:45 PM,JD2216
+Oscar Marin,15927,COMP 484,Web Engineering I,MoWe,03:00 PM - 03:50 PM,JD2221
+Oscar Marin,15955,COMP 484L,Web Engineering I Lab,MoWe,04:00 PM - 05:15 PM,JD2221
+Oscar Marin,16101,COMP 584,Advanced Web Engineering,Th,03:00 PM - 05:45 PM,ONLINE
+Yevgeniya Mushkatblat,20774,COMP 440,Database Design,Mo,07:00 PM - 09:45 PM,ONLINE
+Yevgeniya Mushkatblat,16567,COMP 583,Software Engineering Management,We,07:00 PM - 09:45 PM,JD1538
+Yevgeniya Mushkatblat,16199,COMP 583,Software Engineering Management,Tu,07:00 PM - 09:45 PM,JD2213
+Esmaail M Nikjeh,16057,COMP 182,Data Structures and Program Design,Fr,10:00 AM - 12:45 PM,JD1538
+Esmaail M Nikjeh,16058,COMP 182L,Data Structures and Program Design Lab,Fr,02:00 PM - 04:45 PM,JD1538
+Esmaail M Nikjeh,16562,COMP 256,Discrete Structures for Computer Science,TuTh,02:00 PM - 03:15 PM,JD1600A
+Esmaail M Nikjeh,16104,COMP 256,Discrete Structures for Computer Science,TuTh,09:30 AM - 10:45 AM,JD1600A
+Esmaail M Nikjeh,16105,COMP 256L,Discrete Structures for Computer Science Lab,TuTh,11:00 AM - 12:15 PM,JD1600A
+Esmaail M Nikjeh,16563,COMP 256L,Discrete Structures for Computer Science Lab,TuTh,03:30 PM - 04:45 PM,JD1600A
+Felix Rabinovich,16301,COMP 584,Advanced Web Engineering,Fr,06:00 PM - 08:45 PM,JD1538
+Zahid Rafique,16192,COMP 440,Database Design,MoWe,09:30 AM - 10:45 AM,JD1600B
+Sanam Sabooni,20858,COMP 110,Introduction to Algorithms and Programming,TuTh,07:00 PM - 08:15 PM,ONLINE
+Sanam Sabooni,20835,COMP 110,Introduction to Algorithms and Programming,MoWe,07:00 PM - 08:15 PM,ONLINE
+Sanam Sabooni,20836,COMP 110L,Introduction to Algorithms and Programming Lab,MoWe,08:30 PM - 09:45 PM,ONLINE
+Sanam Sabooni,20859,COMP 110L,Introduction to Algorithms and Programming Lab,TuTh,08:30 PM - 09:45 PM,ONLINE
+Harutyun Sepetjyan,16299,COMP 484,Web Engineering I,TuTh,04:30 PM - 05:20 PM,JD1107
+Harutyun Sepetjyan,16300,COMP 484L,Web Engineering I Lab,TuTh,05:30 PM - 06:45 PM,JD1107
+Harutyun Sepetjyan,20433,COMP 488,ADV PRAC INFO TECH,TuTh,07:00 PM - 09:45 PM,JD1600A
+Shantaram Vasikarla,16590,COMP 485,Human-Computer Interaction,MoWe,11:00 AM - 12:15 PM,JD1600B
+Shantaram Vasikarla,16395,COMP 485,Human-Computer Interaction,TuTh,11:00 AM - 12:15 PM,JD1600B
+"Yu, Senhua",16636,COMP 429,Computer Network Software,Fr,03:00 PM - 05:45 PM,ONLINE
+"Yu, Senhua",20870,COMP 440,Database Design,Mo,06:00 PM - 08:45 PM,ONLINE
+Kamran Zamanifar,16616,COMP 380,Introduction to Software Engineering,MoWe,04:00 PM - 04:50 PM,JD2213
+Kamran Zamanifar,16391,COMP 380,Introduction to Software Engineering,TuTh,07:00 PM - 07:50 PM,ONLINE
+Kamran Zamanifar,16572,COMP 380,Introduction to Software Engineering,TuTh,04:00 PM - 04:50 PM,ONLINE
+Kamran Zamanifar,16393,COMP 380L,Introduction to Software Engineering Lab,TuTh,08:00 PM - 09:15 PM,ONLINE
+Kamran Zamanifar,16573,COMP 380L,Introduction to Software Engineering Lab,TuTh,05:00 PM - 06:15 PM,ONLINE
+Kamran Zamanifar,16618,COMP 380L,Introduction to Software Engineering Lab,MoWe,05:00 PM - 06:15 PM,JD2213
+Kamran Zamanifar,16632,COMP 522,EMBEDDED APPS,We,07:00 PM - 09:45 PM,JD1600B
+Bahram Zartoshty,16021,COMP 110,Introduction to Algorithms and Programming,MoWe,02:00 PM - 03:15 PM,JD1538
+Bahram Zartoshty,16020,COMP 110L,Introduction to Algorithms and Programming Lab,MoWe,03:30 PM - 04:45 PM,JD1538
+Bahram Zartoshty,16430,COMP 182,Data Structures and Program Design,MoWe,08:00 AM - 09:15 AM,JD1600
+Bahram Zartoshty,16432,COMP 182L,Data Structures and Program Design Lab,MoWe,09:30 AM - 10:45 AM,JD1600
+Bahram Zartoshty,16433,COMP 182L,Data Structures and Program Design Lab,MoWe,11:00 AM - 12:15 PM,JD1600
