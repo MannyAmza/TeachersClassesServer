@@ -22,7 +22,7 @@ namespace TeachersClassesServer.Controllers
         [HttpPost("User")]
         public async Task<ActionResult> SeedUsers()
         {
-            (string name, string email) = ("user1", "comp584@csun.edu");
+            (string name, string email) = ("CSUNStudentName", "comp584@csun.edu");
          CoursesUser user = new()
             {
                 UserName = name,
@@ -33,7 +33,7 @@ namespace TeachersClassesServer.Controllers
             {
                 user.UserName = "user2";
             }
-            _ = await userManager.CreateAsync(user, "P@ssw0rd!")
+            _ = await userManager.CreateAsync(user, "CSUN_Stud3nt_P@55w0rd!")
                     ?? throw new InvalidOperationException();
             user.EmailConfirmed = true;
             user.LockoutEnabled = false;
