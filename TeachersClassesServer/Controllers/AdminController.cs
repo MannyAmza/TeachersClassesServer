@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Http;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using System.IdentityModel.Tokens.Jwt;
@@ -12,6 +13,7 @@ namespace TeachersClassesServer.Controllers
     public class AdminController(UserManager<CoursesUser> userManager, JwtHandler jwtHandler) : ControllerBase
     {
         [HttpPost("Login")]
+        [AllowAnonymous]
         public async Task<IActionResult> Login(LoginRequest loginRequest)
         {
             CoursesUser? user = await userManager.FindByNameAsync(loginRequest.userName);
